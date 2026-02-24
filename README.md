@@ -1,6 +1,11 @@
 # Hand Motion Reconstruction from Minimal Input through Latent-Space Learning
 
-We address the problem of real-time motion retargeting for a virtual human hand using the WeART TouchDIVER G1 haptic glove and a data-driven approach based on a neural network. In order to exploit the Hand Synergies and improve both generalization and efficiency, we apply dimensionality reduction techniques such as Principal Component Analysis (PCA) and Autoencoders. 
+- Giordano Pagano
+- Charlotte Ludovica Primiceri
+- Diana Ioana Bubenek Turconi
+- Serena Trovalusci
+
+Within this *research group*, we investigated the problem of real-time motion retargeting for a virtual human hand using the WeART TouchDIVER G1 haptic glove and a data-driven approach based on neural networks. To exploit hand synergies and improve both generalization and efficiency, we applied dimensionality reduction techniques such as Principal Component Analysis (PCA) and Autoencoders.
 
 # Steps for Motion Retargeting with Built-In functions of Weart SDK: 
 
